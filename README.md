@@ -1,5 +1,3 @@
-<img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
-
 # Meroser's IPTV📺
 欢迎来到Meroser的直播源仓库🎉
 
